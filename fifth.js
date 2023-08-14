@@ -16,5 +16,4 @@ function canPay(changeArray, totalDue) {
     }
 }
 
-const notes = [1, 5, 5];
-console.log(canPay(notes, 10));
+

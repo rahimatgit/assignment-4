@@ -12,5 +12,5 @@ function matchFinder(string1, string2) {
     }
 }
 
-console.log(matchFinder('John doe', 3))
+
 

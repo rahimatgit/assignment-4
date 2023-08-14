@@ -19,4 +19,3 @@ function sortMaker(arr) {
 
 }
 
-console.log(sortMaker([3,-2]));
